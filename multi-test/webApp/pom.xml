@@ -14,7 +14,7 @@
  
   <build>
     <finalName>webApp</finalName>
-    <pluginManagement
+    <pluginManagement>
       <plugins>
         <plugin>
           <artifactId>maven-war-plugin</artifactId>
