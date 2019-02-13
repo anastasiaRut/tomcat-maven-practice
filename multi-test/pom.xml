@@ -8,5 +8,6 @@
   <name>multi-test</name>
   <modules>
     <module>webApp</module>
+    <module>helloWorld</module>
   </modules>
 </project>
